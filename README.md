@@ -3,6 +3,11 @@ Projeto feito no thinkercad para monitorar a temperatura dos usuários, de froma
 
 <h2 align="center">Link do vídeo do teste da solução:</h2>
 
+<h2 align="center">🛠 Modelagem final da Solução 🛠</h2>
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177373837315293204/image.png?ex=657245d5&is=655fd0d5&hm=5d0c5799c5718eca18b08fac2393dadf5b7c09e5ffe437bb234e622cfef14890&"/>
+</div>
+
 # **HealHub: Transformando o Acesso à Saúde por Meio da Inovação Digital** 🌐🏥
 
 Em um cenário onde a agilidade e eficiência são cruciais para a saúde pública, nasce o projeto revolucionário chamado **HealHub**. Este empreendimento visionário busca remodelar a experiência dos pacientes ao facilitar o acesso aos serviços hospitalares, eliminando barreiras burocráticas e economizando tempo precioso em situações emergenciais.
