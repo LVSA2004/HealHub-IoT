@@ -8,6 +8,11 @@ Projeto feito no thinkercad para monitorar a temperatura dos usuários, de froma
     <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177373837315293204/image.png?ex=657245d5&is=655fd0d5&hm=5d0c5799c5718eca18b08fac2393dadf5b7c09e5ffe437bb234e622cfef14890&"/>
 </div>
 
+<h2 align="center">⚡️ Esquema Eletrônico ⚡️</h2>
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177374452342861905/image.png?ex=65724667&is=655fd167&hm=c0c301d7d1f704146721e49c5127fdb1399b611b02d3b558b3b0560fe008ecbd&"/>
+</div>
+
 # **HealHub: Transformando o Acesso à Saúde por Meio da Inovação Digital** 🌐🏥
 
 Em um cenário onde a agilidade e eficiência são cruciais para a saúde pública, nasce o projeto revolucionário chamado **HealHub**. Este empreendimento visionário busca remodelar a experiência dos pacientes ao facilitar o acesso aos serviços hospitalares, eliminando barreiras burocráticas e economizando tempo precioso em situações emergenciais.
