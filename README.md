@@ -35,33 +35,38 @@ O *HealHub* representa uma evolução significativa na interseção entre tecnol
 </div>
 
 <h2 align="center">🔌⚡️ Estado Inicial - Ligado 🔌⚡️</h2>
-<h3 align="center">Estado inicial do projeto, desta vez ligado e funcional, a tela apresentará a mensagem "aproxime-se" pois a distância padrão do sensor de presença é maior que a 
+<h3 align="center">Estado inicial do projeto, desta vez ligado e funcional, a tela apresentará a mensagem "aproxime-se" pois a distância padrão do sensor de distância é maior que a 
 distância de leitura da temperatura.</h3>
 <div align="center">
     <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177375383352516729/image.png?ex=65724745&is=655fd245&hm=b58a92ee2bcf4b4113b30349983d301453d9539a7bb1ed34a5c82508c78fb085&"/>
 </div>
 
 <h2 align="center">✅ Proximidade Correta ✅</h2>
+<h3 align="center">Saída na tela com a distância correta no sensor</h3>
 <div align="center">
     <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177375489845887138/image.png?ex=6572475f&is=655fd25f&hm=261b559ae6a3b335000f397bca439036945497d4046fa8b446baee0169d23192&"/>
 </div>
 
 <h2 align="center">❌ Proximidade Incorreta ❌</h2>
+<h3 align="center">Saída na tela com a distância incorreta no sensor</h3>
 <div align="center">
     <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177375383352516729/image.png?ex=65724745&is=655fd245&hm=b58a92ee2bcf4b4113b30349983d301453d9539a7bb1ed34a5c82508c78fb085&"/>
 </div>
 
 <h2 align="center">🌡😊 Temperatura normal para o corpo Humano 😊🌡</h2>
+<h3 align="center">O led Verde é aceso quando a temperatura medida é a ideal para o corpo humano</h3>
 <div align="center">
     <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177375807522488390/image.png?ex=657247ab&is=655fd2ab&hm=d4cc141b2ced11f3aee2f40bcc06edae7400c6d25f2205679849d42dae21d760&"/>
 </div>
 
 <h2 align="center">🌡🤒 Temperatura alta para o corpo Humano 🤒🌡</h2>
+<h3 align="center">O led Amarelo é aceso quando a temperatura medida é a perigosa para o corpo humano, tendo em mente que se encontra em estado febril</h3>
 <div align="center">
     <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177375937403293827/image.png?ex=657247ca&is=655fd2ca&hm=6a1400d5b7c8bfe5cd240a6002dd1ba0baca83d306a5d1c14ae5e2ed86d6f336&"/>
 </div>
 
 <h2 align="center">🌡💀 Temperatura letal para o corpo Humano 💀🌡</h2>
+<h3 align="center">O led Vermelho é aceso quando a temperatura medida é a letal para o corpo humano devido a sua temperatura extremamente alta</h3>
 <div align="center">
     <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177376002033332264/image.png?ex=657247d9&is=655fd2d9&hm=6c74f18c65c5bf19e2db4ca0a05f360a2d26fbf5c57d09cb688318fc8fac8ab1&"/>
 </div>
