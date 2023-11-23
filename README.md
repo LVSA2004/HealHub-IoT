@@ -29,11 +29,14 @@ O *HealHub* não é apenas uma inovação tecnológica; é uma resposta prática
 O *HealHub* representa uma evolução significativa na interseção entre tecnologia e saúde. Ao simplificar o acesso aos serviços médicos, esta plataforma promove uma abordagem mais humanizada, eficiente e segura. O projeto não apenas atende às necessidades imediatas da população, mas também aponta para um futuro onde a tecnologia desempenhará um papel fundamental na construção de sistemas de saúde mais resilientes e orientados ao paciente. O *HealHub* não é apenas uma ferramenta; é uma revolução na maneira como concebemos e experimentamos os cuidados de saúde. 🚀🌍
 
 <h2 align="center">🔌❌ Estado Inicial - Desligado 🔌❌</h2>
+Estado inicial do projeto, onde o mesmo se encontra desligado
 <div align="center">
     <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177373837315293204/image.png?ex=657245d5&is=655fd0d5&hm=5d0c5799c5718eca18b08fac2393dadf5b7c09e5ffe437bb234e622cfef14890&"/>
 </div>
 
 <h2 align="center">🔌⚡️ Estado Inicial - Ligado 🔌⚡️</h2>
+Estado inicial do projeto, desta vez ligado e funcional, a tela apresentará a mensagem "aproxime-se" pois a distância padrão do sensor de presença é maior que a 
+distância de leitura da temperatura.
 <div align="center">
     <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177375383352516729/image.png?ex=65724745&is=655fd245&hm=b58a92ee2bcf4b4113b30349983d301453d9539a7bb1ed34a5c82508c78fb085&"/>
 </div>
