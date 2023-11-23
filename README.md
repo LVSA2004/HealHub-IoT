@@ -1,5 +1,7 @@
-# HealHub-IoT
+<h1 align="center">HealHub-IoT</h1>
 Projeto feito no thinkercad para monitorar a temperatura dos usuários, de froma a complementar a solução principal.
+
+<h2 align="center">Link do vídeo do teste da solução:</h2>
 
 # **HealHub: Transformando o Acesso à Saúde por Meio da Inovação Digital** 🌐🏥
 
