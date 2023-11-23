@@ -25,3 +25,38 @@ O *HealHub* não é apenas uma inovação tecnológica; é uma resposta prática
 
 ## **Considerações Finais:**
 O *HealHub* representa uma evolução significativa na interseção entre tecnologia e saúde. Ao simplificar o acesso aos serviços médicos, esta plataforma promove uma abordagem mais humanizada, eficiente e segura. O projeto não apenas atende às necessidades imediatas da população, mas também aponta para um futuro onde a tecnologia desempenhará um papel fundamental na construção de sistemas de saúde mais resilientes e orientados ao paciente. O *HealHub* não é apenas uma ferramenta; é uma revolução na maneira como concebemos e experimentamos os cuidados de saúde. 🚀🌍
+
+<h2 align="center">🔌❌ Estado Inicial - Desligado 🔌❌</h2>
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177373837315293204/image.png?ex=657245d5&is=655fd0d5&hm=5d0c5799c5718eca18b08fac2393dadf5b7c09e5ffe437bb234e622cfef14890&"/>
+</div>
+
+<h2 align="center">🔌⚡️ Estado Inicial - Ligado 🔌⚡️</h2>
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177375383352516729/image.png?ex=65724745&is=655fd245&hm=b58a92ee2bcf4b4113b30349983d301453d9539a7bb1ed34a5c82508c78fb085&"/>
+</div>
+
+<h2 align="center">✅ Proximidade Correta ✅</h2>
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177375489845887138/image.png?ex=6572475f&is=655fd25f&hm=261b559ae6a3b335000f397bca439036945497d4046fa8b446baee0169d23192&"/>
+</div>
+
+<h2 align="center">❌ Proximidade Incorreta ❌</h2>
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177375383352516729/image.png?ex=65724745&is=655fd245&hm=b58a92ee2bcf4b4113b30349983d301453d9539a7bb1ed34a5c82508c78fb085&"/>
+</div>
+
+<h2 align="center">🌡😊 Temperatura normal para o corpo Humano 😊🌡</h2>
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177375807522488390/image.png?ex=657247ab&is=655fd2ab&hm=d4cc141b2ced11f3aee2f40bcc06edae7400c6d25f2205679849d42dae21d760&"/>
+</div>
+
+<h2 align="center">🌡🤒 Temperatura alta para o corpo Humano 🤒🌡</h2>
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177375937403293827/image.png?ex=657247ca&is=655fd2ca&hm=6a1400d5b7c8bfe5cd240a6002dd1ba0baca83d306a5d1c14ae5e2ed86d6f336&"/>
+</div>
+
+<h2 align="center">🌡💀 Temperatura letal para o corpo Humano 💀🌡</h2>
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/945808741385793596/1177376002033332264/image.png?ex=657247d9&is=655fd2d9&hm=6c74f18c65c5bf19e2db4ca0a05f360a2d26fbf5c57d09cb688318fc8fac8ab1&"/>
+</div>
