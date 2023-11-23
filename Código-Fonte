@@ -1,0 +1,95 @@
+// C++ code
+//
+#include <LiquidCrystal.h>
+
+// Inicializar a biblioteca com os números dos pinos digitais
+LiquidCrystal lcd(12, 11, 2, 3, 4, 5);
+
+// Variáveis para leitura e interpretação das leituras do TMP36
+const int TEMP=0;
+int val = 0;
+float celsius=0.0;
+const int trigger = 7;
+const int echo = 6;
+float distancia;
+const int verde = 8;
+const int amarelo = 9;
+const int vermelho = 10;
+
+void distcerta(){
+  lcd.clear();
+  lcd.print("Temp. °C");
+  lcd.setCursor(0, 1);
+  lcd.print(celsius);
+   delay(500);
+}
+
+void disterrada(){
+  lcd.clear();
+  lcd.setCursor(0, 1);
+  lcd.print("Aproxime-se");
+  delay(500);
+}
+
+void normal(){
+  digitalWrite(verde, HIGH);
+  digitalWrite(amarelo, LOW);
+  digitalWrite(vermelho, LOW);
+}
+
+void preocupante(){
+  digitalWrite(verde, LOW);
+  digitalWrite(amarelo, HIGH);
+  digitalWrite(vermelho, LOW);
+}
+
+void letal(){
+  digitalWrite(verde, LOW);
+  digitalWrite(amarelo, LOW);
+  digitalWrite(vermelho, HIGH);
+}
+
+void setup()
+{
+ // Configurar o número de colunas e linhas do LCD:
+    lcd.begin(16, 2);
+  pinMode(trigger, OUTPUT);
+  pinMode(verde, OUTPUT);
+  pinMode(amarelo, OUTPUT);
+  pinMode(vermelho, OUTPUT);
+
+    // Texto a ser mostrado no LCD (texto fixo, primeira linha):
+    lcd.print("Temp. °C");
+   Serial.begin(9600);
+}
+
+void loop()
+{
+ // Posicionar o cursor na coluna 0 e linha 1 (segunda linha):
+    lcd.setCursor(0, 1);
+  // Ler o valor enviado pelo sensor
+    	val = analogRead(TEMP);
+  	   // Calcular e ajustar a temperatura em graus Celsius
+        celsius = map(((val - 20) * 3.04), 0, 1023, -40, 125);
+  
+  	digitalWrite(trigger, HIGH);
+    digitalWrite(trigger, LOW);
+  
+  	distancia = 0.01715 * pulseIn(echo, HIGH);
+  
+  	Serial.println(distancia);
+  
+  	if (distancia <= 40)
+     	distcerta();
+  	else
+       disterrada();
+  	if (celsius >= 35 && celsius <= 36)
+     	normal();
+  		delay(200);
+  	if (celsius >= 38 && celsius <= 39)
+     	preocupante();
+  		delay(200);
+    if (celsius >= 40)
+     	letal();
+  		delay(200);
+}
