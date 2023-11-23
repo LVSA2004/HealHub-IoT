@@ -2,6 +2,8 @@
 Projeto feito no thinkercad para monitorar a temperatura dos usuários, de froma a complementar a solução principal.
 
 <h2 align="center">Link do vídeo do teste da solução: https://youtu.be/IWEdxWwVctM</h2>
+<h2 align="center">Link do Tinkercad: [https://youtu.be/IWEdxWwVctM](https://www.tinkercad.com/things/4GYcStTIxUP-exquisite-bojo-jarv/editel?sharecode=-Nom02r4By2Z88gcSAOiIgPLpOlnHJdaJyNrQkyFUwA)</h2>
+
 
 <h2 align="center">🛠 Modelagem final da Solução 🛠</h2>
 <div align="center">
